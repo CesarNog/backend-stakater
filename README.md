@@ -28,3 +28,9 @@
 ## Printscreen showing the backend API working
 ![image](https://user-images.githubusercontent.com/754924/147828884-736a9e9b-47a3-4240-80d7-00aa72857ea2.png)
 
+## Variable NAME location
+Change the value of value NAME on kubernetes/backend-deployment.yaml to change what the API will return
+![image](https://user-images.githubusercontent.com/754924/147828982-69d86212-7fb8-4ab3-bbbd-b4fcc189e3e3.png)
+
+## Helm Chart
+The helm chart can be created using this tutorial: https://docs.bitnami.com/tutorials/create-your-first-helm-chart/
