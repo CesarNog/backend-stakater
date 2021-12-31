@@ -23,5 +23,8 @@
  4. Run the command below to open the hello-python-backend on minikube
   `minikube service hello-python-backend-service`
  5. Open the minikube URL alonside /api/hello on your browser
+ Example: `http://127.0.0.1:55633/api/hello`
+
+## Printscreen showing the backend API working
 ![image](https://user-images.githubusercontent.com/754924/147828884-736a9e9b-47a3-4240-80d7-00aa72857ea2.png)
 
